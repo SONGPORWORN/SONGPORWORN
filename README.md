@@ -19,11 +19,11 @@
 
 **My GitHub Stats**
 
-<a href="http://www.github.com/HajimaruRay">
-    <img src="https://github-readme-stats.vercel.app/api?username=HajimaruRay&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HajimaruRay's GitHub stats" />
+<a href="http://www.github.com/SONGPORWORN">
+    <img src="https://github-readme-stats.vercel.app/api?username=SONGPORWORN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SONGPORWORN's GitHub stats" />
 </a>
 
-<a href="https://github.com/HajimaruRay" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajimaruRay&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+<a href="https://github.com/SONGPORWORN" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONGPORWORN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
